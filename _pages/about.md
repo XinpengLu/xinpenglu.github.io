@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Here is **Xinpeng Lu ([陆新蓬](https://caihanlin.com/file/蔡汉霖简历.pdf))**. I am currently pursuing my master’s degree in Computer Technology at [University of Science and Technology of China (USTC)]([中国科学技术大学](https://www.ustc.edu.cn/)), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强)]([个人简介 - 李厚强的个人主页](http://staff.ustc.edu.cn/~lihq/)) and [Prof. Wengang Zhou (周文罡)]([staff.ustc.edu.cn/~zhwg/index.html](http://staff.ustc.edu.cn/~zhwg/index.html)). 
+Here is **Xinpeng Lu (陆新蓬)**. 
+
+I am currently pursuing my master’s degree in Computer Technology at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强)](http://staff.ustc.edu.cn/~lihq/) and [Prof. Wengang Zhou (周文罡)](http://staff.ustc.edu.cn/~zhwg/index.html). 
 
 I graduated with a bachelor's degree in Software Engineering from [College of Information Engineering](http://xxgcxy.yzu.edu.cn/index.htm), [Yangzhou University](https://www.yzu.edu.cn/), where I was advised by [Prof. Junwu Zhu (朱俊武)](https://xxgcxy.yzu.edu.cn/info/1020/7295.htm).
 
@@ -25,8 +27,7 @@ My research interest includes **multi-agent system** and **reinforcement learnin
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.12*: &nbsp;🎉🎉 Comming Soon.
 
 # 📝 Publications 
 
@@ -43,8 +44,7 @@ My research interest includes **multi-agent system** and **reinforcement learnin
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Coming Soon.
 
 # 📖 Educations
 - *2025.09 - up to now*, Master, University of Science and Technology of China (USTC), Hefei.

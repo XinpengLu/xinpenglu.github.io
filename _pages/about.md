@@ -33,12 +33,16 @@ My research interest includes **multi-agent system** and **reinforcement learnin
 
 **Journal Paper**
 
+- 
 - <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://github.com), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
 
 ***
 
 **Conference Paper**
 
+- <strong><font color='blue'> [ICDE 2025] </font></strong>
+- <strong><font color='blue'> [WISE 2024] </font></strong> [Incremental Task Replanning Algorithm for Multi-UAV Based on Centralized-Distributed 
+  Negotiation]((https://github.com)), Peng Tian, Xiangyu Shan, **Xinpeng Lu**, Xueqing Li, and Junwu Zhu. (Doha, Qatar, December 2-5, 2024)
 - <strong><font color='blue'> [CSCWD 2024] </font></strong> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://github.com), **Xinpeng Lu**, Heng Song, Huailing Ma, Xueqing Li and Junwu Zhu. (Tianjin, China, May 8-10, 2024)
 - <strong><font color='blue'> [AAMAS 2024] </font></strong> <em><font color='red'> (Oral) </font></em> [A Task-Driven Multi-UAV Coalition Formation Mechanism](https://github.com), **Xinpeng Lu**, Heng Song, Huailing Ma, and Junwu Zhu. (Auckland, New Zealand, May 6–10, 2024)
 

@@ -26,14 +26,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Conferences 
+# 📝 Publications 
 
-- <font color='blue'> **[CSCWD 2024]** </font> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://github.com), **Xinpeng Lu**, Heng Song, Huailing Ma, Xueqing Li and Junwu Zhu.
-- <font color='blue'> **[AAMAS 2024]** </font> <font color='red'>*(Oral)* </font> [A Task-Driven Multi-UAV Coalition Formation Mechanism](https://github.com), **Xinpeng Lu**, Heng Song, Huailing Ma, and Junwu Zhu.
-
-# 📝 Journals 
-
-- <font color='blue'> **[IEEE  Transactions on Consumer Electronics]** </font> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://github.com), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
+- <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics] </font></strong><br> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://github.com), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
+- <strong><font color='blue'> [CSCWD 2024] </font></strong><br> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://github.com), **Xinpeng Lu**, Heng Song, Huailing Ma, Xueqing Li and Junwu Zhu.
+- <strong><font color='blue'> [AAMAS 2024] </font></strong> <em><font color='red'> (Oral) </font></em><br> [A Task-Driven Multi-UAV Coalition Formation Mechanism](https://github.com), **Xinpeng Lu**, Heng Song, Huailing Ma, and Junwu Zhu.
 
 
 # 🎖 Honors and Awards

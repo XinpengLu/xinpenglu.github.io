@@ -40,13 +40,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 - 
 
-- <div class='paper-box'>
-  <div class='paper-box-text' markdown="1">
-    <div class="badge">CVPR 2016</div>
-  </div>
-  </div> 
+- 
 
-  [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **AAMAS 2020**
+- <div class='paper-box'>
+    <div class='paper-box-text' markdown="1">
+      <div class="badge">CVPR 2016</div>
+      <!-- 这里是你希望以 Markdown 渲染的内容 -->
+      [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **AAMAS 2024**
+    </div>
+  </div>
 
 
 

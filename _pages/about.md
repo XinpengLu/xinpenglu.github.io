@@ -23,7 +23,7 @@ I am currently pursuing my master’s degree in Computer Technology at [Universi
 
 I graduated with a bachelor's degree in Software Engineering from [College of Information Engineering](http://xxgcxy.yzu.edu.cn/index.htm), [Yangzhou University](https://www.yzu.edu.cn/), where I was advised by [Prof. Junwu Zhu (朱俊武)](https://xxgcxy.yzu.edu.cn/info/1020/7295.htm).
 
-My research interest includes **Multi-Agent System (MAS)** and **Reinforcement Learning (RL)**. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **Multi-Agent System:robot: (MAS)** and **Reinforcement Learning:video_game: (RL)** .
 
 
 # 🔥 News

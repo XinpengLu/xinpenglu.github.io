@@ -59,8 +59,8 @@ My research interest includes **Multi-Agent System (MAS)** and **Reinforcement L
 - None.
 
 # 💻 Internships
-- None.6
+- None.7
 
-<div style="width: 100px; height: 100px;">
+<div style="width: 200px; height: 200px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>
 </div>

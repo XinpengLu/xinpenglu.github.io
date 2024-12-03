@@ -23,7 +23,7 @@ I am currently pursuing my master’s degree in Computer Technology at [Universi
 
 I graduated with a bachelor's degree in Software Engineering from [College of Information Engineering](http://xxgcxy.yzu.edu.cn/index.htm), [Yangzhou University](https://www.yzu.edu.cn/), where I was advised by [Prof. Junwu Zhu (朱俊武)](https://xxgcxy.yzu.edu.cn/info/1020/7295.htm).
 
-My research interest includes **Multi-Agent System:robot: (MAS)** and **Reinforcement Learning:video_game: (RL)** .
+My research interest includes **Multi-Agent System (MAS)**:robot: and **Reinforcement Learning (RL)** :video_game:.
 
 
 # 🔥 News

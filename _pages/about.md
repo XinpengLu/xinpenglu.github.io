@@ -23,7 +23,7 @@ I am currently pursuing my master’s degree in Computer Technology at [Universi
 
 I graduated with a bachelor's degree in Software Engineering from [College of Information Engineering](http://xxgcxy.yzu.edu.cn/index.htm), [Yangzhou University](https://www.yzu.edu.cn/), where I was advised by [Prof. Junwu Zhu (朱俊武)](https://xxgcxy.yzu.edu.cn/info/1020/7295.htm).
 
-My research interest includes **multi-agent system** and **reinforcement learning**. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interest includes **Multi-Agent System (MAS)** and **Reinforcement Learning (RL)**. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -33,14 +33,14 @@ My research interest includes **multi-agent system** and **reinforcement learnin
 
 **Journal Paper**
 
-- 
+- <strong><font color='blue'> [Neurocomputing] </font></strong> [A Context and Preference-aware Neural Network for Auction Design](https://github.com), Yuanyuan Zhang, Junwu Zhu, Yonglong Zhang, Mingxuan Liang, Xueqing Li, **Xinpeng Lu**. <em><font color='red'> (Under review) </font></em>
 - <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://github.com), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
 
 ***
 
 **Conference Paper**
 
-- <strong><font color='blue'> [ICDE 2025] </font></strong>
+- <strong><font color='blue'> [ICDE 2025] </font></strong> [MAE-AM: Query-driven Multi-Advertisement Embeddings and Auction Mechanism in LLM](https://github.com), **Xinpeng Lu**, Heng Song, Yuanyuan Zhang, Xiangyu Shan, and Junwu Zhu. <em><font color='red'> (Under review) </font></em>
 - <strong><font color='blue'> [WISE 2024] </font></strong> [Incremental Task Replanning Algorithm for Multi-UAV Based on Centralized-Distributed 
   Negotiation]((https://github.com)), Peng Tian, Xiangyu Shan, **Xinpeng Lu**, Xueqing Li, and Junwu Zhu. (Doha, Qatar, December 2-5, 2024)
 - <strong><font color='blue'> [CSCWD 2024] </font></strong> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://github.com), **Xinpeng Lu**, Heng Song, Huailing Ma, Xueqing Li and Junwu Zhu. (Tianjin, China, May 8-10, 2024)
@@ -60,3 +60,11 @@ My research interest includes **multi-agent system** and **reinforcement learnin
 
 # 💻 Internships
 - None.
+
+
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ&cl=ffffff&w=a"></script>
+
+
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>

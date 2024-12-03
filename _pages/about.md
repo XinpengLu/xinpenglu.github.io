@@ -34,7 +34,7 @@ My research interest includes **Multi-Agent System (MAS)** and **Reinforcement L
 **Journal Paper**
 
 - <strong><font color='blue'> [Neurocomputing] </font></strong> [A Context and Preference-aware Neural Network for Auction Design](https://github.com), Yuanyuan Zhang, Junwu Zhu, Yonglong Zhang, Mingxuan Liang, Xueqing Li, **Xinpeng Lu**. <em><font color='red'> (Under review) </font></em>
-- <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://github.com), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
+- <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](xinpenglu.github.io/files/journal/TCE2024.pdf), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
 
 ***
 
@@ -63,8 +63,4 @@ My research interest includes **Multi-Agent System (MAS)** and **Reinforcement L
 
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ&cl=ffffff&w=a"></script>
-
-
-
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ" style="width: 300px; height: 300px;"></script>

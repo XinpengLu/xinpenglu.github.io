@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+![Xinpeng Lu's Photo](https://xinpenglu.github.io/pics/ustc.png){: style="float: right; margin-left: 20px; width: 200px; border-radius: 10px;"}
+
 Here is **Xinpeng Lu (陆新蓬)**. 
 
 I am currently pursuing my master’s degree in Computer Technology at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强)](http://staff.ustc.edu.cn/~lihq/) and [Prof. Wengang Zhou (周文罡)](http://staff.ustc.edu.cn/~zhwg/index.html). 
@@ -59,7 +61,7 @@ My research interest includes **Multi-Agent System🤖 (MAS)**  and **Reinforcem
 - None.
 
 # 💻 Internships
-- None.7
+- None.
 
 <div style="width: 200px; height: 200px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>

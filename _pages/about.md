@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-![Xinpeng Lu's Photo](https://xinpenglu.github.io/images/USTC.png){: style="float: right; margin-left: 10px; width: 400px; border-radius: 5px;"}
+![Xinpeng Lu's Photo](https://xinpenglu.github.io/images/USTC.png){: style="float: right; margin-left: 15px; width: 200px; border-radius: 5px;"}
 
 Here is **Xinpeng Lu (陆新蓬)**. 
 

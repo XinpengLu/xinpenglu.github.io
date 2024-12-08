@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-![Xinpeng Lu's Photo](https://xinpenglu.github.io/pics/ustc.png){: style="float: right; margin-left: 10px; width: 400px; border-radius: 5px;"}
+![Xinpeng Lu's Photo](https://xinpenglu.github.io/images/USTC.png){: style="float: right; margin-left: 10px; width: 400px; border-radius: 5px;"}
 
 Here is **Xinpeng Lu (陆新蓬)**. 
 
@@ -61,7 +61,7 @@ My research interest includes **Multi-Agent System🤖 (MAS)**  and **Reinforcem
 - None.
 
 # 💻 Internships
-- None.6
+- None.7
 
 <div style="width: 200px; height: 200px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>

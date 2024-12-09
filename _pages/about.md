@@ -21,15 +21,19 @@ redirect_from:
 
 Here is **Xinpeng Lu (陆新蓬)**. 
 
-I am currently pursuing my master’s degree in Computer Technology at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强)](http://staff.ustc.edu.cn/~lihq/) and [Prof. Wengang Zhou (周文罡)](http://staff.ustc.edu.cn/~zhwg/index.html). 
+I am currently pursuing my master’s degree in Computer Technology at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强, IEEE Fellow)](http://staff.ustc.edu.cn/~lihq/) and [Prof. Wengang Zhou (周文罡)](http://staff.ustc.edu.cn/~zhwg/index.html). 
 
 I graduated with a bachelor's degree in Software Engineering from [College of Information Engineering](http://xxgcxy.yzu.edu.cn/index.htm), [Yangzhou University](https://www.yzu.edu.cn/), where I was advised by [Prof. Junwu Zhu (朱俊武)](https://xxgcxy.yzu.edu.cn/info/1020/7295.htm).
 
 My research interest includes **Multi-Agent System🤖 (MAS)**  and **Reinforcement Learning🎮 (RL)** .
 
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - xinpenglu2024 [at] 163.com
+
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 Comming Soon.
+- **2024.09**: I entered USTC without the entrance exam! 🎉
+- **2024.05**: My innovation project on unmanned clusters was successfully completed!🎉
+- **2023.12**: Our work MUCFC has been accepted to AAMAS 2024 as an oral paper. See you in New Zealand!🎉
 
 # 📝 Publications 
 
@@ -61,7 +65,7 @@ My research interest includes **Multi-Agent System🤖 (MAS)**  and **Reinforcem
 - None.
 
 # 💻 Internships
-- None.6
+- None.
 
 <div style="width: 200px; height: 200px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>

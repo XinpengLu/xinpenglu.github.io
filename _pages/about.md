@@ -21,13 +21,13 @@ redirect_from:
 
 Here is **Xinpeng Lu (陆新蓬)**. 
 
-I am currently pursuing my master’s degree in Computer Technology at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强, IEEE Fellow)](http://staff.ustc.edu.cn/~lihq/) and [Prof. Wengang Zhou (周文罡)](http://staff.ustc.edu.cn/~zhwg/index.html). 
+I am currently pursuing my master’s degree in Computer Technology at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强, IEEE Fellow, 长江学者)](http://staff.ustc.edu.cn/~lihq/) and [Prof. Wengang Zhou (周文罡, 国家优青)](http://staff.ustc.edu.cn/~zhwg/index.html). 
 
 I graduated with a bachelor's degree in Software Engineering from [College of Information Engineering](http://xxgcxy.yzu.edu.cn/index.htm), [Yangzhou University](https://www.yzu.edu.cn/), where I was advised by [Prof. Junwu Zhu (朱俊武)](https://xxgcxy.yzu.edu.cn/info/1020/7295.htm).
 
 My research interest includes **Multi-Agent System🤖 (MAS)**  and **Reinforcement Learning🎮 (RL)** .
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - xinpenglu2024 [at] 163.com
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - xinpenglu2024 [at] 163 [dot] com
 
 
 # 🔥 News

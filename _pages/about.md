@@ -62,10 +62,10 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - *2018.09 - 2021.06*, Huangyan Middle School, Taizhou.
 
 # 💬 Invited Talks
-- None. develop branch
+- None. 
 
 # 💻 Internships
-- None. 666
+- None. 
 
 <div style="width: 200px; height: 200px; margin: 0 auto;">
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>

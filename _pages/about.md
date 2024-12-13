@@ -46,7 +46,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **Conference Paper**
 
-- <strong><font color='blue'> [ICDE 2025] </font></strong> [MAE-AM: Query-driven Multi-Advertisement Embeddings and Auction Mechanism in LLM](https://xinpenglu.github.io/files/conference/ICDE2025.pdf), **Xinpeng Lu**, Heng Song, Yuanyuan Zhang, Xiangyu Shan, and Junwu Zhu. <em><font color='red'> (Under review) </font></em>
+- <strong><font color='blue'> [ICDE 2025] </font></strong> [MAE-AM: Query-driven Multi-Advertisement Embeddings and Auction Mechanism in LLM](https://xinpenglu.github.io/), **Xinpeng Lu**, Heng Song, Yuanyuan Zhang, Xiangyu Shan, and Junwu Zhu. <em><font color='red'> (Under review) </font></em>
 - <strong><font color='blue'> [WISE 2024] </font></strong> [Incremental Task Replanning Algorithm for Multi-UAV Based on Centralized-Distributed 
   Negotiation](https://xinpenglu.github.io/files/conference/WISE2024.pdf), Peng Tian, Xiangyu Shan, **Xinpeng Lu**, Xueqing Li, and Junwu Zhu. (Doha, Qatar, December 2-5, 2024)
 - <strong><font color='blue'> [CSCWD 2024] </font></strong> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://xinpenglu.github.io/files/conference/CSCWD2024.pdf), **Xinpeng Lu**, Heng Song, Huailing Ma, Xueqing Li and Junwu Zhu. (Tianjin, China, May 8-10, 2024)

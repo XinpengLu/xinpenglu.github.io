@@ -39,8 +39,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **Journal Paper**
 
-- <strong><font color='blue'> [Neurocomputing, IF=6.5] </font></strong> [A Context and Preference-aware Neural Network for Auction Design](https://xinpenglu.github.io/), Yuanyuan Zhang, Junwu Zhu, Yonglong Zhang, Mingxuan Liang, Xueqing Li, **Xinpeng Lu**.
-- <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics, IF=10.9] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://xinpenglu.github.io/files/journal/NeuroComputing2025.pdf), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
+- <strong><font color='blue'> [Neurocomputing, IF=6.5] </font></strong> [A Context and Preference-aware Neural Network for Auction Design](https://xinpenglu.github.io/files/journal/NeuroComputing2025.pdf), Yuanyuan Zhang, Junwu Zhu, Yonglong Zhang, Mingxuan Liang, Xueqing Li, **Xinpeng Lu**.
+- <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics, IF=10.9] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://xinpenglu.github.io/files/journal/TCE2024.pdf), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
 
 ***
 

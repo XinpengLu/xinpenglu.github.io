@@ -39,19 +39,22 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **Journal Paper**
 
-- <strong><font color='blue'> [Neurocomputing, IF=6.5] </font></strong> [A Context and Preference-aware Neural Network for Auction Design](https://xinpenglu.github.io/files/journal/NeuroComputing2025.pdf), Yuanyuan Zhang, Junwu Zhu, Yonglong Zhang, Mingxuan Liang, Xueqing Li, **Xinpeng Lu**.
-- <strong><font color='blue'> [IEEE  Transactions on Consumer Electronics, IF=10.9] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://xinpenglu.github.io/files/journal/TCE2024.pdf), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu.
+- <strong><font color='blue'> [IEEE Access, IF=3.9] </font></strong> [Neural Auction Mechanisms for Partial Fulfillment in Edge Computing](https://xinpenglu.github.io/files/journal/IEEEAccess2026.pdf), Yuanyuan Zhang, **Xinpeng Lu**, Mingxuan Liang, Junwu Zhu*, Yonglong Zhang, Yi Jiang.
+- <strong><font color='blue'> [Neurocomputing, IF=6.5] </font></strong> [A Context and Preference-aware Neural Network for Auction Design](https://xinpenglu.github.io/files/journal/NeuroComputing2025.pdf), Yuanyuan Zhang, Junwu Zhu*, Yonglong Zhang, Mingxuan Liang, Xueqing Li, **Xinpeng Lu**.
+- <strong><font color='blue'> [IEEE Transactions on Consumer Electronics, IF=10.9] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://xinpenglu.github.io/files/journal/TCE2024.pdf), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu*.
 
 ***
 
 **Conference Paper**
 
 - <strong><font color='blue'> [NeurIPS 2025] </font></strong> [MAE-AM: Query-driven Multi-Advertisement Embeddings and Auction Mechanism in LLM](https://xinpenglu.github.io/), **Xinpeng Lu**, Heng Song, Yuanyuan Zhang, Xiangyu Shan, and Junwu Zhu. <em><font color='red'> (Under review) </font></em>
-- <strong><font color='blue'> [ICCD 2024] </font></strong> [HRAM: Underwater Hierarchical Route Allocation Mechanism Based on Load Balancing](https://xinpenglu.github.io/files/conference/ICCD2024.pdf), Na Liu, Yi Jiang, and **Xinpeng Lu**. (Qinzhou, China, September 28-30, 2024)
+- <strong><font color='blue'> [ICCD 2024] </font></strong> [HRAM: Underwater Hierarchical Route Allocation Mechanism Based on Load Balancing](https://xinpenglu.github.io/files/conference/ICCD2024.pdf), Na Liu, Yi Jiang*, and **Xinpeng Lu**. (Qinzhou, China, September 28-30, 2024)
 - <strong><font color='blue'> [WISE 2024, CCF-C] </font></strong> [Incremental Task Replanning Algorithm for Multi-UAV Based on Centralized-Distributed 
-  Negotiation](https://xinpenglu.github.io/files/conference/WISE2024.pdf), Peng Tian, Xiangyu Shan, **Xinpeng Lu**, Xueqing Li, and Junwu Zhu. (Doha, Qatar, December 2-5, 2024)
-- <strong><font color='blue'> [CSCWD 2024, CCF-C] </font></strong> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://xinpenglu.github.io/files/conference/CSCWD2024.pdf), **Xinpeng Lu**, Heng Song, Huailing Ma, Xueqing Li and Junwu Zhu. (Tianjin, China, May 8-10, 2024)
-- <strong><font color='blue'> [AAMAS 2024, CCF-B] </font></strong> <em><font color='red'> (Oral) </font></em> [A Task-Driven Multi-UAV Coalition Formation Mechanism](https://xinpenglu.github.io/files/conference/AAMAS2024.pdf), **Xinpeng Lu**, Heng Song, Huailing Ma, and Junwu Zhu. (Auckland, New Zealand, May 6–10, 2024)
+  Negotiation](https://xinpenglu.github.io/files/conference/WISE2024.pdf), Peng Tian, Xiangyu Shan, **Xinpeng Lu**, Xueqing Li, and Junwu Zhu*. (Doha, Qatar, December 2-5, 2024)
+- <strong><font color='blue'> [CSCWD 2024, CCF-C] </font></strong> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://xinpenglu.github.io/files/conference/CSCWD2024.pdf), **Xinpeng Lu**, Heng Song*, Huailing Ma, Xueqing Li and Junwu Zhu*. (Tianjin, China, May 8-10, 2024)
+- <strong><font color='blue'> [AAMAS 2024, CCF-B] </font></strong> <em><font color='red'> (Oral) </font></em> [A Task-Driven Multi-UAV Coalition Formation Mechanism](https://xinpenglu.github.io/files/conference/AAMAS2024.pdf), **Xinpeng Lu**, Heng Song*, Huailing Ma, and Junwu Zhu*. (Auckland, New Zealand, May 6–10, 2024)
+
+***&#42; Corresponding author.***
 
 
 # 📖 Educations

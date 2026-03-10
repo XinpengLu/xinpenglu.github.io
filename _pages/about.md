@@ -17,115 +17,65 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="home-v2">
-  <section class="home-v2-hero">
-    <div class="home-v2-profile">
-      <h1>Xinpeng Lu</h1>
-      <p class="home-v2-tagline">M.S. Student in Computer Technology, University of Science and Technology of China</p>
-      <p>
-        I focus on <strong>Multi-Agent Systems</strong> and <strong>Reinforcement Learning</strong>, with recent work in
-        task allocation, coalition formation, and learning-based mechanism design.
-      </p>
-      <p class="home-v2-contact">
-        Email:
-        <a href="mailto:xinpenglu@mail.ustc.edu.cn">xinpenglu@mail.ustc.edu.cn</a>
-        | Google Scholar:
-        <a href="https://scholar.google.com/citations?user=b3N2f4kAAAAJ&hl=zh-CN">Profile</a>
-      </p>
-      <div class="home-v2-links">
-        <a class="home-v2-btn" href="https://github.com/XinpengLu">GitHub</a>
-        <a class="home-v2-btn" href="https://dblp.uni-trier.de/pid/372/0756.html">DBLP</a>
-      </div>
-    </div>
-    <img src="https://xinpenglu.github.io/images/USTC.png" alt="Xinpeng Lu Photo" class="home-v2-avatar">
-  </section>
+![Xinpeng Lu's Photo](https://xinpenglu.github.io/images/USTC.png){: style="float: right; margin-left: 20px; width: 300px; border-radius: 10px;"}
 
-  <section class="home-v2-section">
-    <h2>News</h2>
-    <ul>
-      <li><strong>2024.09</strong>: Started M.S. study at USTC via recommended admission.</li>
-      <li><strong>2024.05</strong>: Innovation project on unmanned clusters completed.</li>
-      <li><strong>2023.12</strong>: MUCFC accepted by AAMAS 2024 as an oral paper.</li>
-    </ul>
-  </section>
+Here is **Xinpeng Lu (陆新蓬)**.
 
-  <section class="home-v2-section">
-    <h2>Selected Publications</h2>
-    <h3>Journal Papers</h3>
-    <ul>
-      <li>
-        <span class="home-v2-venue">IEEE Access, IF=3.9</span>
-        <a href="https://xinpenglu.github.io/files/journal/IEEEAccess2026.pdf">Neural Auction Mechanisms for Partial Fulfillment in Edge Computing</a>,
-        Yuanyuan Zhang, <strong>Xinpeng Lu</strong>, Mingxuan Liang, Junwu Zhu*, Yonglong Zhang, Yi Jiang.
-      </li>
-      <li>
-        <span class="home-v2-venue">Neurocomputing, IF=6.5</span>
-        <a href="https://xinpenglu.github.io/files/journal/NeuroComputing2025.pdf">A Context and Preference-aware Neural Network for Auction Design</a>,
-        Yuanyuan Zhang, Junwu Zhu*, Yonglong Zhang, Mingxuan Liang, Xueqing Li, <strong>Xinpeng Lu</strong>.
-      </li>
-      <li>
-        <span class="home-v2-venue">IEEE Transactions on Consumer Electronics, IF=10.9</span>
-        <a href="https://xinpenglu.github.io/files/journal/TCE2024.pdf">Research on UAVs reconnaissance task allocation method based on communication preservation</a>,
-        Xueqing Li, <strong>Xinpeng Lu</strong>, Wenhao Chen, Die Ge, and Junwu Zhu*.
-      </li>
-    </ul>
+I am currently pursuing my master's degree in Computer Technology at [University of Science and Technology of China (USTC)](https://www.ustc.edu.cn/), having been recommended for direct admission without the entrance exam. I am advised by [Prof. Houqiang Li (李厚强, IEEE Fellow, 长江学者)](http://staff.ustc.edu.cn/~lihq/) and [Prof. Wengang Zhou (周文罡, 国家优青)](http://staff.ustc.edu.cn/~zhwg/index.html).
 
-    <h3>Conference Papers</h3>
-    <ul>
-      <li>
-        <span class="home-v2-venue">NeurIPS 2025</span>
-        <a href="https://xinpenglu.github.io/">MAE-AM: Query-driven Multi-Advertisement Embeddings and Auction Mechanism in LLM</a>,
-        <strong>Xinpeng Lu</strong>, Heng Song, Yuanyuan Zhang, Xiangyu Shan, and Junwu Zhu.
-        <em>(Under review)</em>
-      </li>
-      <li>
-        <span class="home-v2-venue">ICCD 2024</span>
-        <a href="https://xinpenglu.github.io/files/conference/ICCD2024.pdf">HRAM: Underwater Hierarchical Route Allocation Mechanism Based on Load Balancing</a>,
-        Na Liu, Yi Jiang*, and <strong>Xinpeng Lu</strong>. (Qinzhou, China, September 28-30, 2024)
-      </li>
-      <li>
-        <span class="home-v2-venue">WISE 2024, CCF-B</span>
-        <a href="https://xinpenglu.github.io/files/conference/WISE2024.pdf">Incremental Task Replanning Algorithm for Multi-UAV Based on Centralized-Distributed Negotiation</a>,
-        Peng Tian, Xiangyu Shan, <strong>Xinpeng Lu</strong>, Xueqing Li, and Junwu Zhu*. (Doha, Qatar, December 2-5, 2024)
-      </li>
-      <li>
-        <span class="home-v2-venue">CSCWD 2024, CCF-C</span>
-        <a href="https://xinpenglu.github.io/files/conference/CSCWD2024.pdf">Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV</a>,
-        <strong>Xinpeng Lu</strong>, Heng Song*, Huailing Ma, Xueqing Li and Junwu Zhu*. (Tianjin, China, May 8-10, 2024)
-      </li>
-      <li>
-        <span class="home-v2-venue">AAMAS 2024, CCF-B</span>
-        <a href="https://xinpenglu.github.io/files/conference/AAMAS2024.pdf">A Task-Driven Multi-UAV Coalition Formation Mechanism</a>,
-        <strong>Xinpeng Lu</strong>, Heng Song*, Huailing Ma, and Junwu Zhu*. (Auckland, New Zealand, May 6-10, 2024)
-        <em>(Oral)</em>
-      </li>
-    </ul>
-    <p><em>* Corresponding author.</em></p>
-  </section>
+I graduated with a bachelor's degree in Software Engineering from [College of Information Engineering](http://xxgcxy.yzu.edu.cn/index.htm), [Yangzhou University](https://www.yzu.edu.cn/), where I was advised by [Prof. Junwu Zhu (朱俊武)](https://xxgcxy.yzu.edu.cn/info/1020/7295.htm).
 
-  <section class="home-v2-grid">
-    <div>
-      <h2>Education</h2>
-      <ul>
-        <li><strong>2025.09 - Present</strong>, M.S., USTC, Hefei.</li>
-        <li><strong>2021.09 - 2025.06</strong>, B.E., Yangzhou University, Yangzhou.</li>
-        <li><strong>2018.09 - 2021.06</strong>, Huangyan Middle School, Taizhou.</li>
-      </ul>
-    </div>
-    <div>
-      <h2>Experience</h2>
-      <ul>
-        <li><strong>2025.03 - 2025.08</strong>, Tencent, Chengdu.</li>
-      </ul>
-      <h2>Honors & Awards</h2>
-      <ul>
-        <li>Coming soon.</li>
-      </ul>
-    </div>
-  </section>
+My research interest includes **Multi-Agent System (MAS)** and **Reinforcement Learning (RL)**.
 
-  <div class="home-v2-globe">
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>
-  </div>
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at [xinpenglu@mail.ustc.edu.cn](mailto:xinpenglu@mail.ustc.edu.cn).
+
+<span class='anchor' id='news'></span>
+
+# News
+- **2024.09**: I entered USTC without the entrance exam.
+- **2024.05**: My innovation project on unmanned clusters was successfully completed.
+- **2023.12**: Our work MUCFC has been accepted to AAMAS 2024 as an oral paper. See you in New Zealand.
+
+<span class='anchor' id='publications'></span>
+
+# Publications
+
+**Journal Paper**
+
+- <strong><font color='blue'> [IEEE Access, IF=3.9] </font></strong> [Neural Auction Mechanisms for Partial Fulfillment in Edge Computing](https://xinpenglu.github.io/files/journal/IEEEAccess2026.pdf), Yuanyuan Zhang, **Xinpeng Lu**, Mingxuan Liang, Junwu Zhu*, Yonglong Zhang, Yi Jiang.
+- <strong><font color='blue'> [Neurocomputing, IF=6.5] </font></strong> [A Context and Preference-aware Neural Network for Auction Design](https://xinpenglu.github.io/files/journal/NeuroComputing2025.pdf), Yuanyuan Zhang, Junwu Zhu*, Yonglong Zhang, Mingxuan Liang, Xueqing Li, **Xinpeng Lu**.
+- <strong><font color='blue'> [IEEE Transactions on Consumer Electronics, IF=10.9] </font></strong> [Research on UAVs reconnaissance task allocation method based on communication preservation](https://xinpenglu.github.io/files/journal/TCE2024.pdf), Xueqing Li, **Xinpeng Lu**, Wenhao Chen, Die Ge, and Junwu Zhu*.
+
+***
+
+**Conference Paper**
+
+- <strong><font color='blue'> [NeurIPS 2025] </font></strong> [MAE-AM: Query-driven Multi-Advertisement Embeddings and Auction Mechanism in LLM](https://xinpenglu.github.io/), **Xinpeng Lu**, Heng Song, Yuanyuan Zhang, Xiangyu Shan, and Junwu Zhu. <span class="paper-status under-review">Under Review</span>
+- <strong><font color='blue'> [ICCD 2024] </font></strong> [HRAM: Underwater Hierarchical Route Allocation Mechanism Based on Load Balancing](https://xinpenglu.github.io/files/conference/ICCD2024.pdf), Na Liu, Yi Jiang*, and **Xinpeng Lu**. (Qinzhou, China, September 28-30, 2024)
+- <strong><font color='blue'> [WISE 2024, CCF-B] </font></strong> [Incremental Task Replanning Algorithm for Multi-UAV Based on Centralized-Distributed 
+  Negotiation](https://xinpenglu.github.io/files/conference/WISE2024.pdf), Peng Tian, Xiangyu Shan, **Xinpeng Lu**, Xueqing Li, and Junwu Zhu*. (Doha, Qatar, December 2-5, 2024)
+- <strong><font color='blue'> [CSCWD 2024, CCF-C] </font></strong> [Research on Bandwidth-Oriented Distributed Task Allocation Mechanism for Multi-UAV](https://xinpenglu.github.io/files/conference/CSCWD2024.pdf), **Xinpeng Lu**, Heng Song*, Huailing Ma, Xueqing Li and Junwu Zhu*. (Tianjin, China, May 8-10, 2024)
+- <strong><font color='blue'> [AAMAS 2024, CCF-B] </font></strong> <em><font color='red'> (Oral) </font></em> [A Task-Driven Multi-UAV Coalition Formation Mechanism](https://xinpenglu.github.io/files/conference/AAMAS2024.pdf), **Xinpeng Lu**, Heng Song*, Huailing Ma, and Junwu Zhu*. (Auckland, New Zealand, May 6-10, 2024)
+
+***&#42; Corresponding author.***
+
+<span class='anchor' id='honors-and-awards'></span>
+
+# Honors and Awards
+- Coming Soon.
+
+<span class='anchor' id='educations'></span>
+
+# Educations
+- *2025.09 - present*, Master, University of Science and Technology of China (USTC), Hefei.
+- *2021.09 - 2025.06*, Undergraduate, Yangzhou University, Yangzhou.
+- *2018.09 - 2021.06*, Huangyan Middle School, Taizhou.
+
+<span class='anchor' id='internships'></span>
+
+# Internships
+- *2025.03 - 2025.08*, Tencent, Chengdu.
+
+<div style="width: 200px; height: 200px; margin: 0 auto;">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>
 </div>
-

@@ -108,6 +108,30 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
+.paper-status {
+    display: inline-block;
+    margin-left: 0.35rem;
+    padding: 0.08rem 0.5rem;
+    border-radius: 999px;
+    font-size: 0.72rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    vertical-align: middle;
+}
+
+.paper-status.under-review {
+    color: #8a2400;
+    background: #ffe9df;
+    border: 1px solid #ffc4ad;
+}
+
+.paper-status.preprint {
+    color: #0d3b66;
+    background: #e5f2ff;
+    border: 1px solid #b7dafc;
+}
+
 .home-v2 {
     --home-v2-bg: linear-gradient(140deg, #f8fbff 0%, #ffffff 45%, #eef5ff 100%);
     --home-v2-card: #ffffff;

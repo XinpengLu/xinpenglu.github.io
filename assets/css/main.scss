@@ -181,10 +181,10 @@ h1:before, .anchor:before {
 }
 
 .home-v2-inline-avatar {
-    width: 78px;
-    height: 78px;
-    object-fit: cover;
-    border-radius: 12px;
+    width: 132px;
+    height: auto;
+    object-fit: contain;
+    border-radius: 8px;
     border: 1px solid #d8e5ff;
     box-shadow: 0 8px 18px rgba(11, 59, 143, 0.15);
 }
@@ -292,6 +292,30 @@ h1:before, .anchor:before {
     gap: 1rem;
 }
 
+.home-v2-floating-toggle {
+    position: fixed;
+    top: 12px;
+    right: 16px;
+    z-index: 1000;
+    border: 1px solid #bcd0ff;
+    background: #f4f8ff;
+    color: #133d93;
+    border-radius: 8px;
+    padding: 0.45rem 0.9rem;
+    font-weight: 700;
+    line-height: 1.1;
+}
+
+.home-v2-floating-toggle:hover {
+    background: #e8f1ff;
+}
+
+[data-theme="dark"] .home-v2-floating-toggle {
+    border-color: #3b4f79;
+    background: #1a2640;
+    color: #c1d7ff;
+}
+
 .home-v2-globe {
     width: 210px;
     height: 210px;
@@ -304,8 +328,7 @@ h1:before, .anchor:before {
     }
 
     .home-v2-inline-avatar {
-        width: 64px;
-        height: 64px;
+        width: 108px;
     }
 
     .home-v2-grid {

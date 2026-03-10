@@ -181,8 +181,8 @@ h1:before, .anchor:before {
 }
 
 .home-v2-inline-avatar {
-    width: 250px;
-    max-width: 55vw;
+    width: 320px;
+    max-width: 62vw;
     height: auto;
     object-fit: contain;
     border-radius: 8px;
@@ -293,75 +293,107 @@ h1:before, .anchor:before {
     gap: 1rem;
 }
 
-.masthead__menu-row {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
+.masthead__inner-wrap {
+    position: relative;
+    padding-right: 170px;
+}
+
+.masthead__theme-slot {
+    position: absolute;
+    right: 0.5em;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 30;
 }
 
 .masthead__theme-btn {
-    flex: 0 0 auto;
-    border: 1px solid #bcd0ff;
-    background: #f4f8ff;
-    color: #133d93;
-    border-radius: 8px;
-    padding: 0.35rem 0.8rem;
+    border: 1px solid #c7d7ff;
+    background: linear-gradient(145deg, #ffffff 0%, #eef4ff 100%);
+    color: #103a8f;
+    border-radius: 999px;
+    padding: 0.38rem 0.88rem;
     font-weight: 700;
+    font-size: 0.86rem;
     line-height: 1.1;
-    margin-left: 0.5rem;
+    box-shadow: 0 4px 12px rgba(20, 58, 136, 0.12);
+    transition: all 0.18s ease;
 }
 
 .masthead__theme-btn:hover {
-    background: #e8f1ff;
+    transform: translateY(-1px);
+    box-shadow: 0 8px 16px rgba(20, 58, 136, 0.18);
+}
+
+.masthead__theme-btn::before {
+    content: "◐";
+    margin-right: 0.35rem;
 }
 
 [data-theme="dark"] .masthead__theme-btn {
-    border-color: #3b4f79;
-    background: #1a2640;
-    color: #c1d7ff;
+    border-color: #42557f;
+    background: linear-gradient(145deg, #1e2b46 0%, #131d33 100%);
+    color: #d2e0ff;
+    box-shadow: 0 4px 12px rgba(4, 10, 24, 0.45);
 }
 
 html[data-theme="dark"],
 html[data-theme="dark"] body {
-    background: #0e1422;
-    color: #dbe6ff;
+    background: #0c1220 !important;
+    color: #dbe6ff !important;
+    color-scheme: dark;
+}
+
+html[data-theme="dark"] .initial-content,
+html[data-theme="dark"] #main,
+html[data-theme="dark"] .layout--single,
+html[data-theme="dark"] .page,
+html[data-theme="dark"] .page__inner-wrap,
+html[data-theme="dark"] .archive,
+html[data-theme="dark"] .sidebar,
+html[data-theme="dark"] .profile_box {
+    background: #0c1220 !important;
+    color: #dbe6ff !important;
 }
 
 html[data-theme="dark"] .masthead {
-    background: #131c2e;
-    border-bottom: 1px solid #273554;
+    background: #121a2d !important;
+    border-bottom: 1px solid #263552 !important;
 }
 
 html[data-theme="dark"] .greedy-nav,
 html[data-theme="dark"] .greedy-nav a {
-    background: #131c2e;
-    color: #dbe6ff;
+    background: #121a2d !important;
+    color: #dbe6ff !important;
 }
 
 html[data-theme="dark"] .greedy-nav .hidden-links {
-    background: #1b2740;
-    border: 1px solid #2d3f63;
+    background: #1b2740 !important;
+    border: 1px solid #2d3f63 !important;
 }
 
 html[data-theme="dark"] .sidebar,
 html[data-theme="dark"] .author__content,
 html[data-theme="dark"] .author__urls-wrapper {
-    color: #c7d8ff;
+    color: #c7d8ff !important;
 }
 
 html[data-theme="dark"] .page__content,
 html[data-theme="dark"] .archive,
 html[data-theme="dark"] .page {
-    color: #dbe6ff;
+    color: #dbe6ff !important;
 }
 
 html[data-theme="dark"] a {
-    color: #8db2ff;
+    color: #8db2ff !important;
+}
+
+html[data-theme="dark"] .author__avatar img {
+    border-color: #3a4a6d !important;
 }
 
 html[data-theme="dark"] .site-footer {
-    background: #101a2c;
-    color: #b8c9eb;
+    background: #101a2c !important;
+    color: #b8c9eb !important;
 }
 
 .home-v2-globe {
@@ -371,14 +403,17 @@ html[data-theme="dark"] .site-footer {
 }
 
 @media (max-width: 900px) {
-    .masthead__menu-row {
-        gap: 0.35rem;
+    .masthead__inner-wrap {
+        padding-right: 132px;
+    }
+
+    .masthead__theme-slot {
+        right: 0.25em;
     }
 
     .masthead__theme-btn {
         padding: 0.3rem 0.65rem;
-        font-size: 0.85rem;
-        margin-left: 0.25rem;
+        font-size: 0.78rem;
     }
 
     .home-v2-title-row {
@@ -386,7 +421,7 @@ html[data-theme="dark"] .site-footer {
     }
 
     .home-v2-inline-avatar {
-        width: 180px;
+        width: 220px;
     }
 
     .home-v2-grid {

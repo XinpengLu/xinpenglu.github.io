@@ -20,7 +20,10 @@ redirect_from:
 <div class="home-v2">
   <section class="home-v2-hero">
     <div class="home-v2-profile">
-      <h1>Xinpeng Lu (陆新蓬)</h1>
+      <div class="home-v2-title-row">
+        <h1>Xinpeng Lu (陆新蓬)</h1>
+        <img src="https://xinpenglu.github.io/images/USTC.png" alt="USTC" class="home-v2-inline-avatar">
+      </div>
       <p class="home-v2-tagline">M.S. Student in Computer Technology, University of Science and Technology of China</p>
       <p>
         I am currently pursuing my master's degree in Computer Technology at
@@ -49,9 +52,9 @@ redirect_from:
       <div class="home-v2-links">
         <a class="home-v2-btn" href="https://github.com/XinpengLu">GitHub</a>
         <a class="home-v2-btn" href="https://dblp.uni-trier.de/pid/372/0756.html">DBLP</a>
+        <button id="theme-toggle" class="home-v2-btn home-v2-theme-toggle" type="button">Dark Mode</button>
       </div>
     </div>
-    <img src="https://xinpenglu.github.io/images/USTC.png" alt="Xinpeng Lu Photo" class="home-v2-avatar">
   </section>
 
   <span class='anchor' id='news'></span>
@@ -113,7 +116,7 @@ redirect_from:
         <span class="home-v2-venue">AAMAS 2024, CCF-B</span>
         <a href="https://xinpenglu.github.io/files/conference/AAMAS2024.pdf">A Task-Driven Multi-UAV Coalition Formation Mechanism</a>,
         <strong>Xinpeng Lu</strong>, Heng Song*, Huailing Ma, and Junwu Zhu*. (Auckland, New Zealand, May 6-10, 2024)
-        <em>(Oral)</em>
+        <span class="oral-status">(Oral)</span>
       </li>
     </ul>
     <p><em>* Corresponding author.</em></p>
@@ -131,14 +134,25 @@ redirect_from:
       <span class='anchor' id='educations'></span>
       <h2>Educations</h2>
       <ul>
-        <li><strong>2025.09 - present</strong>, Master, University of Science and Technology of China (USTC), Hefei.</li>
-        <li><strong>2021.09 - 2025.06</strong>, Undergraduate, Yangzhou University, Yangzhou.</li>
-        <li><strong>2018.09 - 2021.06</strong>, Huangyan Middle School, Taizhou.</li>
+        <li>
+          <strong>2025.09 - present</strong>, Master, University of Science and Technology of China (USTC), Hefei.
+          <div class="home-v2-org-logo-line"><img src="https://xinpenglu.github.io/images/USTC.png" alt="USTC logo"></div>
+        </li>
+        <li>
+          <strong>2021.09 - 2025.06</strong>, Undergraduate, Yangzhou University, Yangzhou.
+          <div class="home-v2-org-logo-line"><img src="https://logo.clearbit.com/yzu.edu.cn" alt="Yangzhou University logo"></div>
+        </li>
+        <li>
+          <strong>2018.09 - 2021.06</strong>, Huangyan Middle School, Taizhou.
+        </li>
       </ul>
       <span class='anchor' id='internships'></span>
       <h2>Internships</h2>
       <ul>
-        <li><strong>2025.03 - 2025.08</strong>, Tencent, Chengdu.</li>
+        <li>
+          <strong>2025.03 - 2025.08</strong>, Tencent, Chengdu.
+          <div class="home-v2-org-logo-line"><img src="https://logo.clearbit.com/tencent.com" alt="Tencent logo"></div>
+        </li>
       </ul>
     </div>
   </section>
@@ -147,3 +161,29 @@ redirect_from:
     <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NkvASYdG2r1i3NU4bU0kprSdMw-6b-hZgGBlclS77qQ"></script>
   </div>
 </div>
+
+<script>
+  (function () {
+    var root = document.documentElement;
+    var btn = document.getElementById('theme-toggle');
+    if (!btn) return;
+
+    var key = 'site-theme';
+    var saved = localStorage.getItem(key);
+    if (saved === 'dark' || saved === 'light') {
+      root.setAttribute('data-theme', saved);
+    }
+
+    function syncLabel() {
+      btn.textContent = root.getAttribute('data-theme') === 'dark' ? 'Light Mode' : 'Dark Mode';
+    }
+
+    syncLabel();
+    btn.addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      localStorage.setItem(key, next);
+      syncLabel();
+    });
+  })();
+</script>

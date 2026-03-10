@@ -107,3 +107,130 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.home-v2 {
+    --home-v2-bg: linear-gradient(140deg, #f8fbff 0%, #ffffff 45%, #eef5ff 100%);
+    --home-v2-card: #ffffff;
+    --home-v2-ink: #0f172a;
+    --home-v2-soft: #475569;
+    --home-v2-line: #dbe7ff;
+    --home-v2-brand: #0b3b8f;
+    --home-v2-brand-2: #2563eb;
+    color: var(--home-v2-ink);
+}
+
+.home-v2 h2 {
+    margin-top: 0;
+}
+
+.home-v2-hero {
+    display: grid;
+    grid-template-columns: 1.2fr 300px;
+    gap: 1.25rem;
+    align-items: center;
+    padding: 1.4rem;
+    border: 1px solid var(--home-v2-line);
+    border-radius: 14px;
+    background: var(--home-v2-bg);
+    box-shadow: 0 10px 28px rgba(15, 23, 42, 0.08);
+}
+
+.home-v2-profile h1 {
+    margin: 0 0 0.4rem;
+    font-size: 2rem;
+    letter-spacing: 0.02em;
+}
+
+.home-v2-tagline {
+    margin: 0 0 0.8rem;
+    color: var(--home-v2-brand);
+    font-weight: 600;
+}
+
+.home-v2-contact {
+    color: var(--home-v2-soft);
+    margin: 0.9rem 0;
+}
+
+.home-v2-contact a {
+    color: var(--home-v2-brand-2);
+    font-weight: 600;
+}
+
+.home-v2-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin-top: 0.8rem;
+}
+
+.home-v2-btn {
+    display: inline-block;
+    border: 1px solid #bcd0ff;
+    background: #f4f8ff;
+    color: var(--home-v2-brand);
+    border-radius: 999px;
+    padding: 0.35rem 0.9rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.home-v2-btn:hover {
+    background: #e8f1ff;
+    text-decoration: none;
+}
+
+.home-v2-avatar {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 14px;
+    border: 1px solid #d8e5ff;
+    justify-self: end;
+}
+
+.home-v2-section,
+.home-v2-grid > div {
+    margin-top: 1.1rem;
+    padding: 1.1rem 1.2rem;
+    border: 1px solid var(--home-v2-line);
+    border-radius: 12px;
+    background: var(--home-v2-card);
+}
+
+.home-v2-venue {
+    display: inline-block;
+    padding: 0.1rem 0.55rem;
+    margin-right: 0.4rem;
+    border-radius: 999px;
+    background: #e7efff;
+    color: #133d93;
+    font-size: 0.82rem;
+    font-weight: 700;
+}
+
+.home-v2-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+}
+
+.home-v2-globe {
+    width: 210px;
+    height: 210px;
+    margin: 1.2rem auto 0;
+}
+
+@media (max-width: 900px) {
+    .home-v2-hero {
+        grid-template-columns: 1fr;
+    }
+
+    .home-v2-avatar {
+        justify-self: start;
+        max-width: 220px;
+    }
+
+    .home-v2-grid {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,8 +1,5 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
-    <div class="masthead__theme-slot">
-      <button id="theme-toggle-nav" class="masthead__theme-btn" type="button">Dark Mode</button>
-    </div>
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
@@ -11,6 +8,7 @@
           {% for link in site.data.navigation.main %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item"><a href="#" id="theme-toggle-nav">Dark Mode</a></li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

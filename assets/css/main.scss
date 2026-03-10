@@ -293,49 +293,6 @@ h1:before, .anchor:before {
     gap: 1rem;
 }
 
-.masthead__inner-wrap {
-    position: relative;
-    padding-right: 170px;
-}
-
-.masthead__theme-slot {
-    position: absolute;
-    right: 0.5em;
-    top: 50%;
-    transform: translateY(-50%);
-    z-index: 30;
-}
-
-.masthead__theme-btn {
-    border: 1px solid #c7d7ff;
-    background: linear-gradient(145deg, #ffffff 0%, #eef4ff 100%);
-    color: #103a8f;
-    border-radius: 999px;
-    padding: 0.38rem 0.88rem;
-    font-weight: 700;
-    font-size: 0.86rem;
-    line-height: 1.1;
-    box-shadow: 0 4px 12px rgba(20, 58, 136, 0.12);
-    transition: all 0.18s ease;
-}
-
-.masthead__theme-btn:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 8px 16px rgba(20, 58, 136, 0.18);
-}
-
-.masthead__theme-btn::before {
-    content: "◐";
-    margin-right: 0.35rem;
-}
-
-[data-theme="dark"] .masthead__theme-btn {
-    border-color: #42557f;
-    background: linear-gradient(145deg, #1e2b46 0%, #131d33 100%);
-    color: #d2e0ff;
-    box-shadow: 0 4px 12px rgba(4, 10, 24, 0.45);
-}
-
 html[data-theme="dark"],
 html[data-theme="dark"] body {
     background: #0c1220 !important;
@@ -403,19 +360,6 @@ html[data-theme="dark"] .site-footer {
 }
 
 @media (max-width: 900px) {
-    .masthead__inner-wrap {
-        padding-right: 132px;
-    }
-
-    .masthead__theme-slot {
-        right: 0.25em;
-    }
-
-    .masthead__theme-btn {
-        padding: 0.3rem 0.65rem;
-        font-size: 0.78rem;
-    }
-
     .home-v2-title-row {
         align-items: flex-start;
     }

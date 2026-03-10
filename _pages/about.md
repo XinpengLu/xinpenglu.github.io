@@ -165,7 +165,8 @@ redirect_from:
     }
 
     syncLabel();
-    btn.addEventListener('click', function () {
+    btn.addEventListener('click', function (event) {
+      event.preventDefault();
       var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
       root.setAttribute('data-theme', next);
       localStorage.setItem(key, next);

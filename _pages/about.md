@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<button id="theme-toggle" class="home-v2-floating-toggle" type="button">Dark Mode</button>
-
 <div class="home-v2">
   <section class="home-v2-hero">
     <div class="home-v2-profile">
@@ -50,11 +48,9 @@ redirect_from:
         <a href="mailto:xinpenglu@mail.ustc.edu.cn">xinpenglu@mail.ustc.edu.cn</a>
         | Google Scholar:
         <a href="https://scholar.google.com/citations?user=b3N2f4kAAAAJ&hl=zh-CN">Profile</a>
+        | Resume:
+        <a href="https://xinpenglu.github.io/files/resume_placeholder.txt">View</a>
       </p>
-      <div class="home-v2-links">
-        <a class="home-v2-btn" href="https://github.com/XinpengLu">GitHub</a>
-        <a class="home-v2-btn" href="https://dblp.uni-trier.de/pid/372/0756.html">DBLP</a>
-      </div>
     </div>
   </section>
 
@@ -123,41 +119,28 @@ redirect_from:
     <p><em>* Corresponding author.</em></p>
   </section>
 
-  <section class="home-v2-section">
-    <span class='anchor' id='honors-and-awards'></span>
-    <h2>Honors and Awards</h2>
-    <ul>
-      <li>Coming Soon.</li>
-    </ul>
-  </section>
-
-  <section class="home-v2-section">
-    <span class='anchor' id='educations'></span>
-    <h2>Educations</h2>
-    <ul>
-      <li>
-        <strong>2025.09 - present</strong>, Master, University of Science and Technology of China (USTC), Hefei.
-        <div class="home-v2-org-logo-line"><img src="https://xinpenglu.github.io/images/USTC.png" alt="USTC logo"></div>
-      </li>
-      <li>
-        <strong>2021.09 - 2025.06</strong>, Undergraduate, Yangzhou University, Yangzhou.
-        <div class="home-v2-org-logo-line"><img src="https://logo.clearbit.com/yzu.edu.cn" alt="Yangzhou University logo"></div>
-      </li>
-      <li>
-        <strong>2018.09 - 2021.06</strong>, Huangyan Middle School, Taizhou.
-      </li>
-    </ul>
-  </section>
-
-  <section class="home-v2-section">
-    <span class='anchor' id='internships'></span>
-    <h2>Internships</h2>
-    <ul>
-      <li>
-        <strong>2025.03 - 2025.08</strong>, Tencent, Chengdu.
-        <div class="home-v2-org-logo-line"><img src="https://logo.clearbit.com/tencent.com" alt="Tencent logo"></div>
-      </li>
-    </ul>
+  <section class="home-v2-grid">
+    <div>
+      <span class='anchor' id='honors-and-awards'></span>
+      <h2>Honors and Awards</h2>
+      <ul>
+        <li>Coming Soon.</li>
+      </ul>
+    </div>
+    <div>
+      <span class='anchor' id='educations'></span>
+      <h2>Educations</h2>
+      <ul>
+        <li><strong>2025.09 - present</strong>, Master, University of Science and Technology of China (USTC), Hefei.</li>
+        <li><strong>2021.09 - 2025.06</strong>, Undergraduate, Yangzhou University, Yangzhou.</li>
+        <li><strong>2018.09 - 2021.06</strong>, Huangyan Middle School, Taizhou.</li>
+      </ul>
+      <span class='anchor' id='internships'></span>
+      <h2>Internships</h2>
+      <ul>
+        <li><strong>2025.03 - 2025.08</strong>, Tencent, Chengdu.</li>
+      </ul>
+    </div>
   </section>
 
   <div class="home-v2-globe">
@@ -168,7 +151,7 @@ redirect_from:
 <script>
   (function () {
     var root = document.documentElement;
-    var btn = document.getElementById('theme-toggle');
+    var btn = document.getElementById('theme-toggle-nav');
     if (!btn) return;
 
     var key = 'site-theme';

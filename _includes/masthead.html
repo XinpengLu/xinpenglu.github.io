@@ -1,19 +1,19 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
-        <button><div class="navicon"></div></button>
-        <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endfor %}
-          <li class="masthead__menu-item masthead__menu-item--theme">
-            <button id="theme-toggle-nav" class="masthead__theme-btn" type="button">Dark Mode</button>
-          </li>
-        </ul>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
+      <div class="masthead__menu-row">
+        <nav id="site-nav" class="greedy-nav">
+          <button><div class="navicon"></div></button>
+          <ul class="visible-links">
+            <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
+            {% for link in site.data.navigation.main %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            {% endfor %}
+          </ul>
+          <ul class="hidden-links hidden"></ul>
+        </nav>
+        <button id="theme-toggle-nav" class="masthead__theme-btn" type="button">Dark Mode</button>
+      </div>
     </div>
   </div>
 </div>

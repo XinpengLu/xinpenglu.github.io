@@ -181,8 +181,8 @@ h1:before, .anchor:before {
 }
 
 .home-v2-inline-avatar {
-    width: 210px;
-    max-width: 45vw;
+    width: 250px;
+    max-width: 55vw;
     height: auto;
     object-fit: contain;
     border-radius: 8px;
@@ -293,11 +293,14 @@ h1:before, .anchor:before {
     gap: 1rem;
 }
 
-.masthead__menu-item--theme {
-    margin-left: auto;
+.masthead__menu-row {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
 }
 
 .masthead__theme-btn {
+    flex: 0 0 auto;
     border: 1px solid #bcd0ff;
     background: #f4f8ff;
     color: #133d93;
@@ -368,12 +371,22 @@ html[data-theme="dark"] .site-footer {
 }
 
 @media (max-width: 900px) {
+    .masthead__menu-row {
+        gap: 0.35rem;
+    }
+
+    .masthead__theme-btn {
+        padding: 0.3rem 0.65rem;
+        font-size: 0.85rem;
+        margin-left: 0.25rem;
+    }
+
     .home-v2-title-row {
         align-items: flex-start;
     }
 
     .home-v2-inline-avatar {
-        width: 150px;
+        width: 180px;
     }
 
     .home-v2-grid {

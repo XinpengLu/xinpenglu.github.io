@@ -270,9 +270,9 @@ h1:before, .anchor:before {
 }
 
 .paper-status.oral-badge {
-    color: #a31414;
-    background: #ffe2e2;
-    border: 1px solid #ffb7b7;
+    color: #ffffff !important;
+    background: #c71f1f !important;
+    border: 1px solid #c71f1f !important;
 }
 
 .home-v2-org-logo-line {
@@ -297,12 +297,15 @@ h1:before, .anchor:before {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
     gap: 1rem;
+    align-items: stretch;
 }
 
 .home-v2-grid-card {
     min-height: 225px;
     padding-top: 0.8rem;
     padding-bottom: 0.8rem;
+    display: flex;
+    flex-direction: column;
 }
 
 .home-v2-grid-card ul {
@@ -315,27 +318,27 @@ h1:before, .anchor:before {
 }
 
 .home-v2-patents-card {
-    height: 225px;
     overflow: hidden;
     scrollbar-width: thin;
 }
 
 .home-v2-patents-list {
-    max-height: 165px;
-    overflow-y: auto;
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: scroll;
     padding-right: 0.35rem;
 }
 
-.home-v2-patents-card::-webkit-scrollbar {
+.home-v2-patents-list::-webkit-scrollbar {
     width: 8px;
 }
 
-.home-v2-patents-card::-webkit-scrollbar-thumb {
+.home-v2-patents-list::-webkit-scrollbar-thumb {
     background: #bfd0f5;
     border-radius: 999px;
 }
 
-[data-theme="dark"] .home-v2-patents-card::-webkit-scrollbar-thumb {
+[data-theme="dark"] .home-v2-patents-list::-webkit-scrollbar-thumb {
     background: #415984;
 }
 

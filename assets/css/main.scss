@@ -293,6 +293,40 @@ h1:before, .anchor:before {
     gap: 1rem;
 }
 
+.home-v2-grid-card {
+    min-height: 255px;
+    padding-top: 0.95rem;
+    padding-bottom: 0.95rem;
+}
+
+.home-v2-grid-card ul {
+    margin-bottom: 0.6rem;
+}
+
+.home-v2-grid-card li {
+    margin-bottom: 0.45rem;
+    line-height: 1.55;
+}
+
+.home-v2-patents-card {
+    max-height: 255px;
+    overflow-y: auto;
+    scrollbar-width: thin;
+}
+
+.home-v2-patents-card::-webkit-scrollbar {
+    width: 8px;
+}
+
+.home-v2-patents-card::-webkit-scrollbar-thumb {
+    background: #bfd0f5;
+    border-radius: 999px;
+}
+
+[data-theme="dark"] .home-v2-patents-card::-webkit-scrollbar-thumb {
+    background: #415984;
+}
+
 html[data-theme="dark"],
 html[data-theme="dark"] body {
     background: #0c1220 !important;

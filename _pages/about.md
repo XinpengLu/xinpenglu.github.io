@@ -72,7 +72,7 @@ redirect_from:
       <li>
         <span class="paper-status under-review">Under Review</span>
         <span class="home-v2-venue">IEEE Transactions on Industrial Informatics, IF=10.7</span>
-        GridMoE: Learning Exogenous-Aware MoE Policy for Power Grid Optimization under Dynamic Topologies and Scenarios,
+        <a href="https://xinpenglu.github.io/">GridMoE: Learning Exogenous-Aware MoE Policy for Power Grid Optimization under Dynamic Topologies and Scenarios</a>,
         <strong>Xinpeng Lu</strong>, Dong Yan*, Weide Shu, Jiale Han, Yuanrui Duan, Mingxiao Feng, Wengang Zhou*, and Houqiang Li.
       </li>
       <li>
@@ -97,7 +97,7 @@ redirect_from:
       <li>
         <span class="paper-status under-review">Under Review</span>
         <span class="home-v2-venue">ICML 2026, CCF-A</span>
-        UI-DART: Dense-reward Adaptive Refined Targeting for GUI Grounding,
+        <a href="https://xinpenglu.github.io/">UI-DART: Dense-reward Adaptive Refined Targeting for GUI Grounding</a>,
         Xiangyu Shan, <strong>Xinpeng Lu</strong>, Heng Song, Junwu Zhu*.
       </li>
       <li>
@@ -126,7 +126,7 @@ redirect_from:
   </section>
 
   <section class="home-v2-grid">
-    <div>
+    <div class="home-v2-grid-card">
       <span class='anchor' id='educations'></span>
       <h2>Educations</h2>
       <ul>
@@ -140,17 +140,17 @@ redirect_from:
         <li><strong>2025.03 - 2025.08</strong>, Tencent, Chengdu.</li>
       </ul>
     </div>
-    <div>
+    <div class="home-v2-grid-card home-v2-patents-card">
       <span class='anchor' id='patents'></span>
       <h2>Patents</h2>
       <ul>
-        <li>混合专家强化学习电网调度优化方法、系统、设备与介质，发明人：陆新蓬, 闫冬, 束维德, 韩佳乐, 段元瑞, 冯鸣啸, 周文罡, 李厚强，申请号：202610246645.6</li>
-        <li>电力需求即时响应强化学习控制方法、系统、设备及介质，发明人：韩佳乐, 周文罡, 闫冬, 陆新蓬, 冯鸣啸, 李厚强，申请号：202610216481.2</li>
-        <li>一种无人集群三维空间下通信中继选择方法与系统，发明人：陆新蓬, 马槐苓, 李雪晴, 朱俊武，申请号：202410021600.X</li>
-        <li>一种三维空间水下多跳网络中继节点部署方法，发明人：刘娜, 姜艺, 陆新蓬, 李雪晴, 朱俊武，申请号：202410525207.4</li>
+        <li>混合专家强化学习电网调度优化方法、系统、设备与介质，发明人：<strong>陆新蓬</strong>, 闫冬, 束维德, 韩佳乐, 段元瑞, 冯鸣啸, 周文罡, 李厚强，申请号：202610246645.6</li>
+        <li>电力需求即时响应强化学习控制方法、系统、设备及介质，发明人：韩佳乐, 周文罡, 闫冬, <strong>陆新蓬</strong>, 冯鸣啸, 李厚强，申请号：202610216481.2</li>
+        <li>一种无人集群三维空间下通信中继选择方法与系统，发明人：<strong>陆新蓬</strong>, 马槐苓, 李雪晴, 朱俊武，申请号：202410021600.X</li>
+        <li>一种三维空间水下多跳网络中继节点部署方法，发明人：刘娜, 姜艺, <strong>陆新蓬</strong>, 李雪晴, 朱俊武，申请号：202410525207.4</li>
       </ul>
     </div>
-    <div>
+    <div class="home-v2-grid-card">
       <span class='anchor' id='honors-and-awards'></span>
       <h2>Honors and Awards</h2>
       <ul>

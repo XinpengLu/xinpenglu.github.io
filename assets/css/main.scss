@@ -269,6 +269,12 @@ h1:before, .anchor:before {
     font-weight: 700;
 }
 
+.paper-status.oral-badge {
+    color: #a31414;
+    background: #ffe2e2;
+    border: 1px solid #ffb7b7;
+}
+
 .home-v2-org-logo-line {
     margin-top: 0.45rem;
 }
@@ -294,9 +300,9 @@ h1:before, .anchor:before {
 }
 
 .home-v2-grid-card {
-    min-height: 255px;
-    padding-top: 0.95rem;
-    padding-bottom: 0.95rem;
+    min-height: 225px;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
 }
 
 .home-v2-grid-card ul {
@@ -304,14 +310,20 @@ h1:before, .anchor:before {
 }
 
 .home-v2-grid-card li {
-    margin-bottom: 0.45rem;
-    line-height: 1.55;
+    margin-bottom: 0.35rem;
+    line-height: 1.45;
 }
 
 .home-v2-patents-card {
-    max-height: 255px;
-    overflow-y: auto;
+    height: 225px;
+    overflow: hidden;
     scrollbar-width: thin;
+}
+
+.home-v2-patents-list {
+    max-height: 165px;
+    overflow-y: auto;
+    padding-right: 0.35rem;
 }
 
 .home-v2-patents-card::-webkit-scrollbar {

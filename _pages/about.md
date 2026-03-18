@@ -116,10 +116,10 @@ redirect_from:
         <strong>Xinpeng Lu</strong>, Heng Song*, Huailing Ma, Xueqing Li and Junwu Zhu*. (Tianjin, China, May 8-10, 2024)
       </li>
       <li>
+        <span class="paper-status oral-badge">Oral</span>
         <span class="home-v2-venue">AAMAS 2024, CCF-B</span>
         <a href="https://xinpenglu.github.io/files/conference/AAMAS2024.pdf">A Task-Driven Multi-UAV Coalition Formation Mechanism</a>,
         <strong>Xinpeng Lu</strong>, Heng Song*, Huailing Ma, and Junwu Zhu*. (Auckland, New Zealand, May 6-10, 2024)
-        <span class="oral-status">(Oral)</span>
       </li>
     </ul>
     <p><em>* Corresponding author.</em></p>
@@ -143,7 +143,7 @@ redirect_from:
     <div class="home-v2-grid-card home-v2-patents-card">
       <span class='anchor' id='patents'></span>
       <h2>Patents</h2>
-      <ul>
+      <ul class="home-v2-patents-list">
         <li>混合专家强化学习电网调度优化方法、系统、设备与介质，发明人：<strong>陆新蓬</strong>, 闫冬, 束维德, 韩佳乐, 段元瑞, 冯鸣啸, 周文罡, 李厚强，申请号：202610246645.6</li>
         <li>电力需求即时响应强化学习控制方法、系统、设备及介质，发明人：韩佳乐, 周文罡, 闫冬, <strong>陆新蓬</strong>, 冯鸣啸, 李厚强，申请号：202610216481.2</li>
         <li>一种无人集群三维空间下通信中继选择方法与系统，发明人：<strong>陆新蓬</strong>, 马槐苓, 李雪晴, 朱俊武，申请号：202410021600.X</li>

@@ -76,6 +76,12 @@ redirect_from:
         <strong>Xinpeng Lu</strong>, Dong Yan*, Weide Shu, Jiale Han, Yuanrui Duan, Mingxiao Feng, Wengang Zhou*, and Houqiang Li.
       </li>
       <li>
+        <span class="paper-status under-review">Under Review</span>
+        <span class="home-v2-venue">IEEE Access, IF=3.9</span>
+        <a href="https://xinpenglu.github.io/">Temporal State-Aware Task Replanning for Multi-UAV Coordination</a>,
+        Xueqing Li, <strong>Xinpeng Lu</strong>, Jun Dai, Mingxuan Liang, Zhan Zhang*.
+      </li>
+      <li>
         <span class="home-v2-venue">IEEE Access, IF=3.9</span>
         <a href="https://xinpenglu.github.io/files/journal/IEEEAccess2026.pdf">Neural Auction Mechanisms for Partial Fulfillment in Edge Computing</a>,
         Yuanyuan Zhang, <strong>Xinpeng Lu</strong>, Mingxuan Liang, Junwu Zhu*, Yonglong Zhang, Yi Jiang.
@@ -96,9 +102,15 @@ redirect_from:
     <ul>
       <li>
         <span class="paper-status under-review">Under Review</span>
-        <span class="home-v2-venue">ICML 2026, CCF-A</span>
+        <span class="home-v2-venue">ACM MM 2026, CCF-A</span>
         <a href="https://xinpenglu.github.io/">UI-DART: Dense-reward Adaptive Refined Targeting for GUI Grounding</a>,
         Xiangyu Shan, <strong>Xinpeng Lu</strong>, Heng Song, Junwu Zhu*.
+      </li>
+      <li>
+        <span class="paper-status under-review">Under Review</span>
+        <span class="home-v2-venue">ACM MM 2026, CCF-A</span>
+        <a href="https://xinpenglu.github.io/">Beyond Visual Regression: Anchoring Multimodal Residual Correction with Domain Priors for Robust Calorie Estimation</a>,
+        Heng Song, Junhao Zhu, Tong Liu, <strong>Xinpeng Lu</strong>, Junwu Zhu*.
       </li>
       <li>
         <span class="home-v2-venue">ICCD 2024</span>

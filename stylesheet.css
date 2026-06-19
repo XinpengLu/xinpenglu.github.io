@@ -114,10 +114,25 @@ h2 {
   margin-bottom: 4px;
 }
 
-.venue {
-  color: #0b5d1e;
-  font-style: italic;
+.email-code {
+  background: #e5f3f7;
+  font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
+  padding: 0 3px;
+}
+
+span.venue {
+  color: #0b5d1e !important;
+  font-style: italic !important;
+  font-weight: 700 !important;
+}
+
+.info-section {
+  margin-top: 24px;
+}
+
+.info-section:first-child {
+  margin-top: 0;
 }
 
 .one {

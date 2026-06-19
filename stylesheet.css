@@ -128,11 +128,63 @@ span.venue {
 }
 
 .info-section {
-  margin-top: 24px;
+  margin-top: 30px;
 }
 
 .info-section:first-child {
   margin-top: 0;
+}
+
+.timeline-entry {
+  display: flex;
+  align-items: center;
+  gap: 36px;
+  margin-top: 28px;
+}
+
+.timeline-logo {
+  width: 120px;
+  min-width: 120px;
+  text-align: center;
+}
+
+.timeline-logo img {
+  max-width: 78px;
+  max-height: 86px;
+  object-fit: contain;
+}
+
+.timeline-body {
+  flex: 1;
+}
+
+.timeline-title {
+  font-weight: 700;
+}
+
+.timeline-date {
+  margin-bottom: 16px;
+}
+
+.timeline-role {
+  font-weight: 700;
+}
+
+@media (max-width: 600px) {
+  .timeline-entry {
+    align-items: flex-start;
+    gap: 18px;
+  }
+
+  .timeline-logo {
+    width: 78px;
+    min-width: 78px;
+  }
+
+  .timeline-logo img {
+    max-width: 64px;
+    max-height: 72px;
+  }
 }
 
 .one {

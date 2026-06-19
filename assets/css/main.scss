@@ -421,3 +421,204 @@ html[data-theme="dark"] .site-footer {
         grid-template-columns: 1fr;
     }
 }
+
+/* Jon Barron-inspired academic homepage */
+body.jb-home-page {
+    background: #ffffff;
+}
+
+body.jb-home-page .masthead,
+body.jb-home-page .sidebar,
+body.jb-home-page .site-footer {
+    display: none;
+}
+
+body.jb-home-page #main {
+    max-width: none;
+    padding: 0;
+}
+
+body.jb-home-page .page {
+    float: none;
+    width: 100%;
+    max-width: none;
+    padding: 0;
+}
+
+body.jb-home-page .page__inner-wrap,
+body.jb-home-page .page__content {
+    float: none;
+    width: 100%;
+    max-width: none;
+    padding: 0;
+    margin: 0;
+}
+
+.jb-home {
+    max-width: 920px;
+    margin: 0 auto;
+    padding: 44px 22px 64px;
+    color: #222222;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 17px;
+    line-height: 1.45;
+}
+
+.jb-home a {
+    color: #1772d0;
+    text-decoration: none;
+}
+
+.jb-home a:hover {
+    color: #f09228;
+    text-decoration: none;
+}
+
+.jb-intro {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 190px;
+    gap: 34px;
+    align-items: start;
+    margin-bottom: 34px;
+}
+
+.jb-intro h1 {
+    margin: 0 0 18px;
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 1.1;
+    text-align: center;
+}
+
+.jb-intro h1 span {
+    white-space: nowrap;
+}
+
+.jb-intro p {
+    margin: 0 0 12px;
+}
+
+.jb-photo {
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.jb-links {
+    text-align: center;
+}
+
+.jb-links span {
+    color: #777777;
+    padding: 0 4px;
+}
+
+.jb-section {
+    margin-top: 30px;
+}
+
+.jb-section h2 {
+    margin: 0 0 14px;
+    font-size: 23px;
+    font-weight: 400;
+}
+
+.jb-paper {
+    display: grid;
+    grid-template-columns: 160px minmax(0, 1fr);
+    gap: 18px;
+    align-items: center;
+    margin: 0 0 22px;
+}
+
+.jb-thumb {
+    width: 160px;
+    height: 92px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    background: #f1f4f8;
+    border: 1px solid #d9e1ea;
+    color: #45566b;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 1.25;
+    text-align: center;
+}
+
+.jb-paper-title {
+    font-weight: 700;
+}
+
+.jb-authors,
+.jb-venue {
+    margin-top: 3px;
+    font-size: 15.5px;
+    line-height: 1.35;
+}
+
+.jb-venue span {
+    color: #b00000;
+    font-weight: 700;
+}
+
+.jb-note {
+    font-size: 15px;
+    color: #555555;
+}
+
+.jb-list {
+    margin: 0;
+    padding-left: 22px;
+}
+
+.jb-list li {
+    margin-bottom: 8px;
+}
+
+.jb-two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 36px;
+}
+
+@media (max-width: 760px) {
+    .jb-home {
+        padding-top: 28px;
+        font-size: 16px;
+    }
+
+    .jb-intro {
+        grid-template-columns: 1fr;
+        justify-items: center;
+        gap: 20px;
+    }
+
+    .jb-intro-text {
+        order: 2;
+    }
+
+    .jb-photo {
+        order: 1;
+        width: 160px;
+        height: 160px;
+    }
+
+    .jb-paper {
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+
+    .jb-thumb {
+        width: 100%;
+        height: 70px;
+    }
+
+    .jb-two-col {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+}
